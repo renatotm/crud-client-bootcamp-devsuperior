@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Roberto da Silva', '12345678910', 5000, TIMESTAMP WITH TIME ZONE '1980-06-11T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Jose da Silva', '12345688910', 3000, TIMESTAMP WITH TIME ZONE '1979-08-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Maria da Costa', '25345678910', 6000, TIMESTAMP WITH TIME ZONE '1981-04-12T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Jose da Costa', '32345678910', 2000, TIMESTAMP WITH TIME ZONE '1982-07-10T20:50:07.12345Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Silvana Oliveira', '14575678910', 4500, TIMESTAMP WITH TIME ZONE '1983-07-09T20:50:07.12345Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Paula Souza', '64545678910', 9800, TIMESTAMP WITH TIME ZONE '1985-02-08T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Manoel Silveira', '23585678910', 9800, TIMESTAMP WITH TIME ZONE '1986-09-03T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Alberto Roberto', '43345689910', 8900, TIMESTAMP WITH TIME ZONE '1983-06-12T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Tania Souza', '37345688910', 6500, TIMESTAMP WITH TIME ZONE '1989-04-23T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Roberval Rotherdan', '21345665910', 4300, TIMESTAMP WITH TIME ZONE '1990-03-03T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Silverio da Silva', '23345676510', 3500, TIMESTAMP WITH TIME ZONE '1991-06-11T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children ) VALUES ('Severino Agripino da Silva', '24345664910', 8700, TIMESTAMP WITH TIME ZONE '1980-07-13T20:50:07.12345Z', 1);
